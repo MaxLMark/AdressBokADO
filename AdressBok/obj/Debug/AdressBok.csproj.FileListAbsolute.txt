@@ -1,0 +1,10 @@
+C:\Users\Max\source\repos\AdressBok\AdressBok\bin\Debug\AdressBok.exe.config
+C:\Users\Max\source\repos\AdressBok\AdressBok\bin\Debug\AdressBok.exe
+C:\Users\Max\source\repos\AdressBok\AdressBok\bin\Debug\AdressBok.pdb
+C:\Users\Max\source\repos\AdressBok\AdressBok\obj\Debug\AdressBok.csprojResolveAssemblyReference.cache
+C:\Users\Max\source\repos\AdressBok\AdressBok\obj\Debug\AdressBok.AdressBok.resources
+C:\Users\Max\source\repos\AdressBok\AdressBok\obj\Debug\AdressBok.Properties.Resources.resources
+C:\Users\Max\source\repos\AdressBok\AdressBok\obj\Debug\AdressBok.csproj.GenerateResource.Cache
+C:\Users\Max\source\repos\AdressBok\AdressBok\obj\Debug\AdressBok.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\AdressBok\AdressBok\obj\Debug\AdressBok.exe
+C:\Users\Max\source\repos\AdressBok\AdressBok\obj\Debug\AdressBok.pdb
